@@ -1,5 +1,6 @@
 # GitCommandsHelp
-Repository for git help commands
+Repository for git help commands\
 hello\
-world
-
+world\
+hello\
+world\
